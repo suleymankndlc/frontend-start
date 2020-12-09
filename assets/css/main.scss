@@ -1,0 +1,44 @@
+/*
+HTML Theme
+Designed By: Bekir Can Aydın
+Author: Süleyman Kandilci
+*/
+
+
+/*
+@font-face {
+    font-family: 'Robot';
+    src: url(../font/visby/VisbyRoundCF-Light.otf);
+    font-weight: 300;
+    font-style: normal;
+}
+*/
+
+html, body {
+    font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body {
+    position: relative;
+}
+
+// Extra small devices (portrait phones, less than 576px) col
+@media (max-width: 575.98px) { 
+   
+}
+
+// Small devices (landscape phones, less than 768px) probably sm 
+@media (max-width: 767.98px) {
+
+   
+}
+
+// Medium devices (tablets, less than 992px) for md
+@media (max-width: 991.98px) {
+
+}
+
+// Large devices (desktops, less than 1200px) lg
+@media (max-width: 1199.98px) {
+
+}
